@@ -18,8 +18,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AbdighaniMD/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines-using-Wireshark)
   - [Azure Sentinel (SIEM) - Exposing VM and Monitoring Global Attacks](https://github.com/AbdighaniMD/Exposing-Azure-vm-and-Monitoring-LIVE-Global-Attacks)
 <br />
-## 📚 Certifications  
 
+## 📚 Certifications  
 - ✅ **CompTIA IT Operations Specialist Certified: A+ & Network+**  
 - ✅ **AWS Certified: Cloud Practitioner**
 - ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**   
