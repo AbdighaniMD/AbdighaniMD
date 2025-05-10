@@ -1,11 +1,11 @@
 <h1>Hi, I'm Abdighani, an <a href="https://linkedin.com/in/abdighani">IT Network Professional </a>👋 </h1>
-
+<!--
 - 🌱 I’m currently learning AZ-104, CCNA
 - 📈 I'm now working on strengthening my hardware and software skills, including network configuration, data structures and algorithms, and system design.
 - 👯 I am interested in collaborating on any DevOps, Data, or Network projects.
 - 💬 Ask me about anything
 - 📫 Reach me at Abdighanimd@outlook.com
-
+-->
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
