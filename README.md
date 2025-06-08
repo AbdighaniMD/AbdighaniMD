@@ -22,6 +22,7 @@
 ## 📚 Certifications  
 - ✅ **CompTIA IT Operations Specialist Certified: A+ & Network+**  
 - ✅ **AWS Certified: Cloud Practitioner**
+- ✅ **Juniper Certified: JNCIA-Junos**
 - ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**   
 - 🚀 **Currently Pursuing:** **Azure Administrator (AZ-104)**
 - 🚀 **Currently Pursuing:** **Cisco Certified Network Associate (CCNA)**
