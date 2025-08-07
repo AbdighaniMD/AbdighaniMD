@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdighani, an <a href="https://linkedin.com/in/abdighani">IT Network Professional </a>👋 </h1>
+<h1>Hi, I'm Abdighani, an <a href="https://linkedin.com/in/abdighani">IT & Network Professional </a>👋 </h1>
 <!--
 - 🌱 I’m currently learning AZ-104, CCNA
 - 📈 I'm now working on strengthening my hardware and software skills, including network configuration, data structures and algorithms, and system design.
