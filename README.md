@@ -19,7 +19,7 @@
   - [Azure Sentinel (SIEM) - Exposing VM and Monitoring Global Attacks](https://github.com/AbdighaniMD/Exposing-Azure-vm-and-Monitoring-LIVE-Global-Attacks)
 <br />
 
-## 📚 Certifications  
+<h3> 📚 Certifications </h3>
 - ✅ **CompTIA IT Operations Specialist Certified: A+ & Network+**  
 - ✅ **AWS Certified: Cloud Practitioner**
 - ✅ **Juniper Certified: JNCIA-Junos**
