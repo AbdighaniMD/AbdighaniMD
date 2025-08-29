@@ -20,6 +20,7 @@
 <br />
 
 <h3> 📚 Certifications </h3>
+
 - ✅ **CompTIA IT Operations Specialist Certified: A+ & Network+**  
 - ✅ **AWS Certified: Cloud Practitioner**
 - ✅ **Juniper Certified: JNCIA-Junos**
