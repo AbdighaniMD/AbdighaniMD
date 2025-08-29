@@ -1,4 +1,4 @@
-<h1>Hi, I'm Abdighani, an <a href="https://linkedin.com/in/abdighani">IT & Network Professional </a>👋 </h1>
+<h1>Hi, I'm Abdighani, an <a href="https://linkedin.com/in/abdighani">IT Professional </a>👋 </h1>
 <!--
 - 🌱 I’m currently learning AZ-104, CCNA
 - 📈 I'm now working on strengthening my hardware and software skills, including network configuration, data structures and algorithms, and system design.
@@ -17,6 +17,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AbdighaniMD/Configuring-On-premises-Active-Directory-within-Azure-VM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AbdighaniMD/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines-using-Wireshark)
   - [Azure Sentinel (SIEM) - Exposing VM and Monitoring Global Attacks](https://github.com/AbdighaniMD/Exposing-Azure-vm-and-Monitoring-LIVE-Global-Attacks)
+
 <br />
 
 ## 📚 Certifications  
