@@ -25,7 +25,6 @@
 - ✅ **Juniper Certified: JNCIA-Junos**
 - ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**   
 - 🚀 **Currently Pursuing:** **Microsoft 365: Endpoint Administrator Associate**
-- 🚀 **Currently Pursuing:** **Cisco Certified Network Associate (CCNA)**
 
 <br />
 
