@@ -15,7 +15,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AbdighaniMD/osTicket-Ticket-Lifecycle-Example)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AbdighaniMD/Configuring-On-premises-Active-Directory-within-Azure-VM)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AbdighaniMD/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines-using-Wireshark)
+  - [Network Traffic Analysis using Wireshark on Azure Virtual Machines](https://github.com/AbdighaniMD/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines-using-Wireshark)
   - [Azure Sentinel (SIEM) - Exposing VM and Monitoring Global Attacks](https://github.com/AbdighaniMD/Exposing-Azure-vm-and-Monitoring-LIVE-Global-Attacks)
 
 ## 📚 Certifications
