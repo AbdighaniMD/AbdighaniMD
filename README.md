@@ -28,7 +28,7 @@
 
 <br />
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,postgres,mysql,mongodb,python,aws,azure,linux,windows)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,postgres,mysql,mongodb,python,aws,azure,windows)
 
 <h2> 🤳Connect with me 🌎</h2>
 
